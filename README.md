@@ -1,6 +1,6 @@
 ## Management System Study
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 Also this is for my study about management system dvelopement using react and node.js
 
 ## Available Scripts
